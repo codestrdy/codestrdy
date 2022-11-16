@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fahmi Ismail Atthoilah</h1>
 <h3 align="center">A junior Flutter Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devfloody" alt="devfloody" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.LabTE.presensi](https://play.google.com/store/apps/details?id=com.LabTE.presensi)
+- 👨‍💻 All of my projects are available at [Portofolio](https://play.google.com/store/apps/details?id=com.LabTE.presensi)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **fahmiismail353@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IqWAuYhazbVhgvPBn6vPpKN9IlUzMtp4/view?usp=share_link](https://drive.google.com/file/d/1IqWAuYhazbVhgvPBn6vPpKN9IlUzMtp4/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IqWAuYhazbVhgvPBn6vPpKN9IlUzMtp4/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devfloody&show_icons=true&locale=en&layout=compact" alt="devfloody" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devfloody&show_icons=true&locale=en" alt="devfloody" /></p>
-
