@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/fahmiismail_a" target="blank"><img src="https://img.shields.io/twitter/follow/fahmiismail_a?logo=twitter&style=for-the-badge" alt="fahmiismail_a" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Currently working with **Flutter**
 
 - 👨‍💻 All of my projects are available at [My Portofolio](https://play.google.com/store/apps/details?id=com.LabTE.presensi)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **fahmiismail353@gmail.com**
+- 📫 How to reach me **fahmiia.work@gmail.com**
 
 - 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1IqWAuYhazbVhgvPBn6vPpKN9IlUzMtp4/view?usp=share_link)
 
