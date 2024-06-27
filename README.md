@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahmi Ismail Atthoilah</h1>
-<h3 align="center">A junior Flutter Developer from Indonesia</h3>
+<h3 align="center">Flutter</h3>
 
 <p align="left"> <a href="https://twitter.com/fahmiismail_a" target="blank"><img src="https://img.shields.io/twitter/follow/fahmiismail_a?logo=twitter&style=for-the-badge" alt="fahmiismail_a" /></a> </p>
 
