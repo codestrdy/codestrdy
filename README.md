@@ -36,6 +36,3 @@
 </div>
 
 ###
-
-<h3 align="left">🧡 Favorites</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devfloody&show_icons=true&locale=en&layout=compact" alt="devfloody" /></p>
