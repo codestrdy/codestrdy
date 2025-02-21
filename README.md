@@ -30,9 +30,9 @@
   <a href="https://www.youtube.com/c/devfloody" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devfloody" height="30" width="40" />
   </a>
-<!--   <a href="https://www.linkedin.com/in/amirhossein-bayat-9288a4225" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40" alt="telegram logo"  />
-  </a> -->
 </div>
 
 ###
+
+![CodeOnSaturday's Stats](https://github-readme-stats.vercel.app/api?username=codestrdy&theme=react&show_icons=true&hide_border=true&count_private=true)
+![CodeOnSaturday's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codestrdy&theme=react&show_icons=true&hide_border=true&layout=compact)
